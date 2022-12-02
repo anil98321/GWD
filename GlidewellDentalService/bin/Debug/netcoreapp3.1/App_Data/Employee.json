@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "1",
+    "FirstName": "Anil",
+    "LastName": "Gupta",
+    "Email": "anil12398@yahoo.co.in",
+    "MonthlySalary": 4500
+  },
+  {
+    "Id": "2",
+    "FirstName": "Sun",
+    "LastName": "Sa",
+    "Email": "sun.sa@glidewell.com",
+    "MonthlySalary": 5500
+  },
+  {
+    "Id": "3",
+    "FirstName": "Bobby",
+    "LastName": "Chong",
+    "Email": "bobby.chong@glidewell.com",
+    "MonthlySalary": 6500
+  },
+  {
+    "Id": "54477",
+    "FirstName": "Annie",
+    "LastName": "Agrahari",
+    "Email": "ag@yahoo.com",
+    "MonthlySalary": 500
+  }
+]
